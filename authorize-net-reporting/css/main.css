@@ -1,0 +1,7 @@
+h1 { color:#f48520;}
+h3 { color: #f0a663; text-align:center;}
+#main-schedule1 { width: 700px; color: #3b5a9a; font-size:14px; float:left;}
+#main-schedule2 { width: 210px; color:#3b5a9a; font-size:12px; float:left; border: 5px #5f7196 solid; padding: 5px; 
+-webkit-border-radius: 7px;
+-moz-border-radius: 7px;
+border-radius: 7px;}
